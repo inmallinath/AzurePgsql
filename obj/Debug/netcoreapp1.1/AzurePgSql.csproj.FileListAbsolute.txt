@@ -1,0 +1,8 @@
+/Users/Mallinath/WebApps/AzurePgSql/bin/Debug/netcoreapp1.1/AzurePgSql.deps.json
+/Users/Mallinath/WebApps/AzurePgSql/bin/Debug/netcoreapp1.1/AzurePgSql.runtimeconfig.json
+/Users/Mallinath/WebApps/AzurePgSql/bin/Debug/netcoreapp1.1/AzurePgSql.runtimeconfig.dev.json
+/Users/Mallinath/WebApps/AzurePgSql/bin/Debug/netcoreapp1.1/AzurePgSql.dll
+/Users/Mallinath/WebApps/AzurePgSql/bin/Debug/netcoreapp1.1/AzurePgSql.pdb
+/Users/Mallinath/WebApps/AzurePgSql/obj/Debug/netcoreapp1.1/AzurePgSql.AssemblyInfo.cs
+/Users/Mallinath/WebApps/AzurePgSql/obj/Debug/netcoreapp1.1/AzurePgSql.dll
+/Users/Mallinath/WebApps/AzurePgSql/obj/Debug/netcoreapp1.1/AzurePgSql.pdb

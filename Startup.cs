@@ -46,7 +46,6 @@ namespace AzurePgSql
             }
             if(_env.IsProduction())
             {
-            
                 _connectionString = Environment.GetEnvironmentVariable("AZURE_CONNECTION_STRING");
                 services.AddDbContext<ApplicationDbContext>(options =>
                                     options.UseNpgsql(_connectionString));
